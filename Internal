@@ -1,7 +1,7 @@
 API_ID=15627744
 API_HASH=6004f570c6b1d08e6d7b3a84a37290ef
 BOT_TOKEN=5638146066:AAEnljqVTTl4Hg7XbDRggfAggbwvjOp0czk
-MONGO_DB_URL=mongodb+srv://sahu80:sahu80@cluster0.04msh0b.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB_URL=mongodb+srv://jiya:jiyavijay@cluster0.z33z7v1.mongodb.net/?retryWrites=true&w=majority
 OWNER_ID=1620457876
 DURATION_LIMIT=1200
 LOG_GROUP_ID=-1001832440045
