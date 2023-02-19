@@ -1,7 +1,7 @@
 API_ID=21293246
 API_HASH=ab5bfe037b5b0c0e0b8ff0733783b627
 BOT_TOKEN=5902446315:AAEqV9Q9w38hx4g-u1yZ61g6HqBZ7XmtrnY
-MONGO_DB_URL=mongodb+srv://jiya:jiyavijay@cluster0.z33z7v1.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB_URL=mongodb+srv://Ajju:Ajaysahu@cluster0.lpts5lo.mongodb.net/?retryWrites=true&w=majority
 OWNER_ID=5739483756
 DURATION_LIMIT=1200
 LOG_GROUP_ID=-1001864801168
